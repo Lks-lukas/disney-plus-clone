@@ -53,8 +53,7 @@ body{
 
 img.franquias {
     max-width: 600px;
-    position: absolute;
-    bottom: 25px;
+    
 }
 
 
@@ -142,6 +141,12 @@ h1{
     margin-left: 32px;
 }
 
+.footer{
+    margin-top: 15px;
+}
+
+
+
 /*Inicio responsividade*/
 
 
@@ -189,8 +194,6 @@ h1{
 
     img.franquias {
         max-width: 280px;
-        position: absolute;
-        bottom: 5px;
     }
 
     .hero-content > .logo{
